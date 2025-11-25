@@ -1,66 +1,71 @@
-<!-- Banner -->
-<p align="center">
-  <img src="/mnt/data/A_profile_README.md_section_for_Rhafael_Silva_on_G.png" alt="Banner - Rhafael Silva" style="border-radius: 12px;">
-</p>
+# 👋 Bem-vindo ao perfil de Rhafael Silva
 
-<h1 align="center">Rhafael Silva</h1>
-<p align="center">Desenvolvedor em Formação | Disciplina • Elegância • Evolução Contínua</p>
+Sou **Rhafael Silva**, estudante de Tecnologia da Informação com foco em Análise e Desenvolvimento de Sistemas.  
+Gosto de programar, estudar lógica e construir projetos com disciplina.
 
 ---
 
-## 🧭 Sobre Mim
+## 📊 Minhas Estatísticas do GitHub
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em crescimento estruturado, rotina disciplinada e construção de uma base sólida na área de tecnologia.
+<div align="center">
 
-Tenho como princípios:
+  <img height="170em"
+       src="https://github-readme-stats.zcy.dev/api?username=rhafaelrsilva&show_icons=true&theme=tokyonight&include_all_commits=true" />
 
-- ✔️ Constância acima de motivação  
-- ✔️ Código limpo, organizado e bem documentado  
-- ✔️ Aprendizado diário como regra  
-- ✔️ Combinação de lógica, criatividade e precisão  
+  <img height="170em"
+       src="https://github-readme-stats.zcy.dev/api/top-langs/?username=rhafaelrsilva&layout=compact&theme=tokyonight" />
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
-</p>
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 💻 Tecnologias que utilizo
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rhafaelrsilva&show_icons=true&theme=tokyonight&rank_icon=github&hide_title=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhafaelrsilva&layout=compact&theme=tokyonight"/>
-</p>
+<div align="left">
+  <img height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
 
 ---
 
-## 🌐 Redes Sociais & Contato
+## 🎯 Meus Objetivos
 
-<p align="center">
+- Evoluir em **Python**, **C** e **JAVA** 
+- Trabalhar com backend, análise de dados ou segurança da informação  
+- Construir projetos sólidos e bem estruturados com disciplina  
+
+---
+
+## 🌐 Redes Sociais
+
+<div align="left">
   <a href="https://www.instagram.com/rhafaelsilva_011/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-
   <a href="mailto:rhafaelrsilva06@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
   <a href="https://www.linkedin.com/in/rhafael-silva-38a3a72b7/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>"Disciplina é a ponte entre onde você está e onde você quer chegar."</i>
-</p>
+### ✨ Obrigado pela visita!
+
+Este perfil é um espaço para meu crescimento, aprendizado e disciplina.  
+Sinta-se livre para explorar meus projetos públicos e acompanhar minha jornada.
+
+
+
+
 
