@@ -1,46 +1,41 @@
-# 👋 Bem-vindo ao perfil de Rhafael Silva
 
-Sou **Rhafael Silva**, estudante de Tecnologia da Informação com foco em Análise e Desenvolvimento de Sistemas.  
-Gosto de programar, estudar lógica e construir projetos com disciplina.
+<!-- Banner ou saudação -->
+<h1 align="center">👋 Olá! Eu sou o <strong>Rhafael Silva</strong></h1>
+<p align="center">Estudante de TI | ADS | Lógica | Backend | Segurança da Informação</p>
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
 
   <img height="170em"
-       src="https://github-readme-stats.zcy.dev/api?username=rhafaelrsilva&show_icons=true&theme=tokyonight&include_all_commits=true" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=rhafaelrsilva&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github"/>
 
   <img height="170em"
-       src="https://github-readme-stats.zcy.dev/api/top-langs/?username=rhafaelrsilva&layout=compact&theme=tokyonight" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhafaelrsilva&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 💻 Tecnologias que utilizo
+## 🛠 Tecnologias que utilizo
 
 <div align="left">
-  <img height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
 ---
 
-## 🎯 Meus Objetivos
+## 🎯 Objetivos
 
-- Evoluir em **Python**, **C** e **JAVA** 
-- Trabalhar com backend, análise de dados ou segurança da informação  
-- Construir projetos sólidos e bem estruturados com disciplina  
+- Aprimorar conhecimento em **Python**, **C** e **Java**  
+- Trabalhar com **backend**, **análise de dados** ou **segurança da informação**  
+- Criar projetos bem estruturados com foco em disciplina e evolução contínua  
 
 ---
 
@@ -50,7 +45,7 @@ Gosto de programar, estudar lógica e construir projetos com disciplina.
   <a href="https://www.instagram.com/rhafaelsilva_011/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:rhafaelrsilva06@gmail.com">
+  <a href="mailto:rhafaelrsilva06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/rhafael-silva-38a3a72b7/" target="_blank">
@@ -60,11 +55,17 @@ Gosto de programar, estudar lógica e construir projetos com disciplina.
 
 ---
 
+## 🐍 Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rhafaelrsilva/rhafaelrsilva/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### ✨ Obrigado pela visita!
 
-Este perfil é um espaço para meu crescimento, aprendizado e disciplina.  
-Sinta-se livre para explorar meus projetos públicos e acompanhar minha jornada.
-
+Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução 🚀
 
 
 
