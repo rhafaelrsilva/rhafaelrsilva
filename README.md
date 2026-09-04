@@ -12,7 +12,7 @@
 - 🌱 Aprendendo **Java**
 - 💬 Pergunte-me sobre lógica de programação, bancos de dados e algoritmos
 - 📫 Como me encontrar: **rhafaelrsilva06@gmail.com**
-- ⚡ Fun fact: [coloque algo divertido sobre você aqui]
+
 
 ---
 
