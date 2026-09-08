@@ -66,6 +66,9 @@ Busco atuar na área de **Análise de Dados**, aplicando Python, SQL e ferrament
 
 <!-- PROJECTS:START -->
 <p align="left">
+  <a href="https://github.com/rhafaelrsilva/rfl_invest_simulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhafaelrsilva&repo=rfl_invest_simulation&theme=tokyonight" />
+  </a>
   <a href="https://github.com/rhafaelrsilva/rhafaelrsilva">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhafaelrsilva&repo=rhafaelrsilva&theme=tokyonight" />
   </a>
@@ -74,9 +77,6 @@ Busco atuar na área de **Análise de Dados**, aplicando Python, SQL e ferrament
   </a>
   <a href="https://github.com/rhafaelrsilva/estoque_C">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhafaelrsilva&repo=estoque_C&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/rhafaelrsilva/ProjetoGit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhafaelrsilva&repo=ProjetoGit&theme=tokyonight" />
   </a>
 </p>
 <!-- PROJECTS:END -->
