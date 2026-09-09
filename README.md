@@ -66,11 +66,11 @@ Busco atuar na área de **Análise de Dados**, aplicando Python, SQL e ferrament
 
 <!-- PROJECTS:START -->
 <p align="left">
-  <a href="https://github.com/rhafaelrsilva/rfl_invest_simulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhafaelrsilva&repo=rfl_invest_simulation&theme=tokyonight" />
-  </a>
   <a href="https://github.com/rhafaelrsilva/rhafaelrsilva">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhafaelrsilva&repo=rhafaelrsilva&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/rhafaelrsilva/rfl_invest_simulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhafaelrsilva&repo=rfl_invest_simulation&theme=tokyonight" />
   </a>
   <a href="https://github.com/rhafaelrsilva/Projeto_stw">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhafaelrsilva&repo=Projeto_stw&theme=tokyonight" />
